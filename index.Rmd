@@ -1,12 +1,21 @@
 ---
-title: "My awesome website"
+title: "Kristal Quispe, BA"
 output: 
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+    theme: journal
 ---
 
-# This is Kristal's awesome website
+# About me
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+![](kristal.jpg)
+
+**Clinical Research Coordinator, Columbia University, NY**
+
+     The research I work on is most closely realted to blood pressure and how we can best measure blood pressure in clinical and non clinical settings. 
+     The blood preassure devices I am currently using are the ABPM and HBPM monitors developed by Microlife, the ABPM monitor developed by Spacelabs, and the OMRON device. 
+
+
+
+
